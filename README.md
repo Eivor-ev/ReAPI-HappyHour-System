@@ -15,3 +15,6 @@ A new Happy Hour system (ReAPI) with new features/options!
 # UPDATE [24/09/2024]
 - Added native to check if happy hour is active or not
 - Native Name -> ev_is_happy_hour_active() [ EXAMPLE IS GIVEN INSIDE PLUGINS FOLDER ]
+
+# SERVERS USING THIS PLUGIN:
+https://www.gametracker.com/search/?search_by=server_variable&search_by2=EivorHappyHour&query=&loc=_all&sort=&order=
